@@ -1,0 +1,6 @@
+[submodule "livro-receitas"]
+	path = livro-receitas
+	url = https://github.com/vitorvs2/livro-receitas.git
+[submodule "first-program-intellij"]
+	path = first-program-intellij
+	url = https://github.com/vitorvs2/first-program-intellij.git
